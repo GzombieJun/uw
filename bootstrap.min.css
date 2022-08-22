@@ -2,43 +2,43 @@
 
 @font-face {
     font-family: 'Determination Mono';
-    src: url('https://vignette.wikia.nocookie.net/heliosanctus/images/c/c0/Determination.eot');
-    src: url('https://vignette.wikia.nocookie.net/heliosanctus/images/c/c0/Determination.eot#iefix') format('embedded-opentype'),
-         url('https://vignette.wikia.nocookie.net/heliosanctus/images/a/aa/Determination.woff2') format('woff2'),
-         url('https://vignette.wikia.nocookie.net/heliosanctus/images/3/37/Determination.woff') format('woff'),
-         url('https://vignette.wikia.nocookie.net/heliosanctus/images/c/cd/Determination.ttf') format('truetype'),
-         url('https://vignette.wikia.nocookie.net/heliosanctus/images/7/7f/Determination.svg#Undertale') format('svg');
+    src: url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/Determination Mono.eot');
+    src: url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/Determination Mono.eot#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/Determination Mono.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/Determination Mono.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/Determination Mono.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/Determination Mono.svg#Undertale') format('svg');
      font-display: swap;
 }
 
 @font-face {
-    font-family: '方正像素12';
-    src: url('https://utcwiki.com/font/方正像素12.eot');
-    src: url('https://utcwiki.com/font/方正像素12.eot') format('embedded-opentype'),
-         url('https://utcwiki.com/font/方正像素12.woff2') format('woff2'),
-         url('https://utcwiki.com/font/方正像素12.woff') format('woff'),
-         url('https://utcwiki.com/font/方正像素12.ttf') format('truetype'),
-         url('https://utcwiki.com/font/方正像素12.svg') format('svg');
+    font-family: 'zpix';
+    src: url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/zpix.eot');
+    src: url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/zpix.eot') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/zpix.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/zpix.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/zpix.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/GzombieJun/uw/font/zpix.svg') format('svg');
     font-display: swap;
 }
 
 body *{
-font-family:"Determination Mono",'方正像素12';
+font-family:"Determination Mono",'zpix';
 }
 .mw-body h1,.mw-body h2,.mw-body h3,.mw-body h4,.mw-body h5, .mw-body-content h1, .mw-body-content h2,.mw-body-content h3,.mw-body-content h4,.mw-body-content h5 {
-font-family:"Determination Mono",'方正像素12';
+font-family:"Determination Mono",'zpix';
 }
 body h2{
-font-family:"Determination Mono",'方正像素12';
+font-family:"Determination Mono",'zpix';
 }
 body h3{
-font-family:"Determination Mono",'方正像素12';
+font-family:"Determination Mono",'zpix';
 }
 body h4{
-font-family:"Determination Mono",'方正像素12';
+font-family:"Determination Mono",'zpix';
 }
 body h5{
-font-family:"Determination Mono",'方正像素12';
+font-family:"Determination Mono",'zpix';
 }
 
 /*!
