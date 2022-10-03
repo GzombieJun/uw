@@ -161,7 +161,7 @@ hr:not([size]) {
     }
 }
 .h4, h4 {
-    font-size:calc(1.05 + .2vw)
+    font-size:calc(1.05rem + .2vw)
 }
 @media (min-width:1200px) {
     .h4, h4 {
